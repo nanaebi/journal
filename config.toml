@@ -1,0 +1,4 @@
+baseURL = "https://nanaebi.github.io/journal/"
+languageCode = 'en-us'
+title = "Portable Times"
+theme = "newsroom"
