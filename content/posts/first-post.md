@@ -3,7 +3,7 @@ date = '2025-09-05'
 draft = false
 title = 'Hello New blog'
 tags = ["雑記"]
-image = "20250903_1.jpg"
+image = "journal/images/20250903_1.jpg"
 +++
 
 Hugoでブログを新しく開設した。

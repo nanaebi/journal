@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Portable Room"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+#  logo = "img/blowfish_logo_transparent.png"
+  description = "Nanaebi's blog"
+
+[params.author]
+  name = "Portable Room"
+  email = ""
+#  image = "img/author.jpg"
+  headline = "Life is about creating myself."
+  bio = "Life is about creating myself."
+#  links = [
+#    { x-twitter = "" },
+#    { github = "" },
+#  ]
