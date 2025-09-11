@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portable Room</title>
+    <link>https://nanaebi.github.io/blog/</link>
+    <description>Recent content on Portable Room</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Portable Room</copyright>
+    <lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nanaebi.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello New blog</title>
+      <link>https://nanaebi.github.io/blog/posts/first-post/</link>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://nanaebi.github.io/blog/posts/first-post/</guid>
+      <description>&lt;p&gt;Hugoでブログを新しく開設した。&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
